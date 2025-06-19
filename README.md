@@ -11,4 +11,4 @@ https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/si
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Aula de debug e tratamentos de Exceptions
+Aula de Debugging e o Tratamento de Exceções em Java
