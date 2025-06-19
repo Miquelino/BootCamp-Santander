@@ -1,4 +1,5 @@
 # BootCamp-Santander
+
 Desafio proposta para colocar em prática as técnicas em Java
 
 Em resumo.
@@ -7,3 +8,5 @@ Implentei as funcionalidades de depositar e sacar.
 
 Segue o desafio:
 https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+
+Aula de debug e tratamentos de Exceptions
