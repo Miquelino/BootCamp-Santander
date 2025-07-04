@@ -7,6 +7,7 @@ O projeto disponibiliza diversos exercícios e desafios práticos, permitindo qu
 Com a orientação de excelentes professores, somos expostos a novas funcionalidades da linguagem, diferentes estilos de codificação e abordagens que ampliam nosso conhecimento, raciocínio lógico e criatividade na programação.
 
 Desafios propostos e entregues
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
 Aulas e exercicios propostos pelo professor José Luis Abreu Cardoso Junior
