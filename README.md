@@ -10,6 +10,7 @@ Com a orientação de excelentes professores, somos expostos a novas funcionalid
 Exercicios
 
 Dominando Interfaces e Lambda em Java
+
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/digitalinnovationone/exercicios-java-basico/blob/main/exercicios/5%20-%20Dominando%20Interfaces%20e%20Lambda%20em%20Java.md)
 
 
