@@ -1,14 +1,12 @@
 # BootCamp-Santander
 
-Desafio proposta para colocar em prática as técnicas em Java
+Participando do BootCamp Santander 2025, criei este repositório para reunir todos os programas de estudo desenvolvidos durante as aulas.
 
-Em resumo.
-Criar um projeto de banco onde o usuario tem acesso ao seu saldo.
-Implentei as funcionalidades de depositar e sacar.
+O projeto disponibiliza diversos exercícios e desafios práticos, permitindo que os alunos coloquem em prática os conceitos aprendidos e aprimorem suas habilidades em Java.
 
-Segue o desafio:
-https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+Com a orientação de excelentes professores, somos expostos a novas funcionalidades da linguagem, diferentes estilos de codificação e abordagens que ampliam nosso conhecimento, raciocínio lógico e criatividade na programação.
 
---------------------------------------------------------------------------------------------------------------------------
 
-Aula de Debugging e o Tratamento de Exceções em Java
+Exercicios
+
+Dominando Interfaces e Lambda em Java
