@@ -2,33 +2,4 @@
 
 Desafio Iphone
 
-classDiagram
-    Main <|-- Principal
-    Principal <|-- AparelhoTelefonico
-    Principal <|-- navegadorDeInternet
-    Principal <|-- ReprodutorMusical
-    class Principal{
-      +exibirMenu()
-    }
-    class AparelhoTelefonico{
-      +boolean ligando
-      +ligar()
-      +atender()
-      +desligar()
-      +iniciarCorreioVoz()
-    }
-    class navegadorDeInternet{
-      -int qtdAba
-      +exibirPagina()
-      +adicionarNovaAba()
-      +atualizarPagina()
-      +fecharPagina()
-    }
-    class ReprodutorMusical{
-      -boolean tocando
-      +tocar()
-      +pausar()
-      +selecionarMusica()
-    }
-
-
+![Untitled diagram _ Mermaid Chart-2025-07-07-181244](https://github.com/user-attachments/assets/2614ae9e-589e-4f32-9c14-6e5743070db0)
