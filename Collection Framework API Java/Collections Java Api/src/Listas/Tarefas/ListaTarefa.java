@@ -1,4 +1,4 @@
-package Model;
+package Listas.Tarefas;
 
 import java.util.ArrayList;
 import java.util.List;

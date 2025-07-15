@@ -1,9 +1,7 @@
-package CarrinhoCompras;
+package Listas.CarrinhoCompras;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static java.lang.Double.sum;
 
 public class CarrinhoDeCompras {
 

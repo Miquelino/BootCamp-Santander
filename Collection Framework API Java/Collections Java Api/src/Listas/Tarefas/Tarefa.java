@@ -1,4 +1,4 @@
-package Model;
+package Listas.Tarefas;
 
 public class Tarefa {
 
