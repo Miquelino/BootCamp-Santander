@@ -20,6 +20,7 @@ public class MainMap {
 
         agendaEventos.exibirAgenda();
         agendaEventos.obterProximoEvento();
+
 //        EstoqueProdutos estoque = new EstoqueProdutos();
 //        estoque.adicionarProduto(1L, "Produto A", 10, 5.0);
 //        estoque.adicionarProduto(2L, "Produto B", 5, 10.0);
