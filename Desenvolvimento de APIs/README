@@ -3,7 +3,7 @@ Java RESTful API criada para a Santander Dev Week 2023
 
 # Diagrama de Classes
 
-'''mermaid
+```mermaid
 classDiagram
     class User {
         +String name
@@ -36,5 +36,5 @@ classDiagram
     User --> Card : has
     User --> "List<Feature>" Feature : has
     User --> "List<News>" News : has
-'''
+```
 
