@@ -1,8 +1,8 @@
-package Mysql.Aula.persistence.entity;
+package Mysql.Aula.persistence;
 
-import Mysql.Aula.persistence.ConnectionUtil;
+import Mysql.Aula.persistence.entity.EmployeeAuditEntity;
+import Mysql.Aula.persistence.entity.OperationEnum;
 
-import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.time.OffsetDateTime;
